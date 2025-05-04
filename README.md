@@ -22,5 +22,5 @@ This repository contains predictive model and course engagement dashboard using 
  - Feature Importance
 
 ## 4: Extras
-- 'utils.py`: File to generate the data. Edit the number of students in the example with the script to generate more/less data
+- `utils.py`: File to generate the data. Edit the number of students in the example with the script to generate more/less data
 - `students_analysis_nb.ipynb`: Jupyter nootebook with model and dashboard code
